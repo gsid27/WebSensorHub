@@ -1,0 +1,16 @@
+{
+  "name": "arduino-data-display",
+  "version": "1.0.0",
+  "description": "Display sensor data from Arduino-like device on a webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", // Replace with your server start command if applicable
+    "build": "echo 'No build steps specified'", // No build step needed for static HTML/JS site
+    "test": "echo 'No tests specified'" // No tests needed for static HTML/JS site
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    // No dependencies required for static HTML/JS site
+  }
+}
