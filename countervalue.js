@@ -11,5 +11,5 @@ function fetchData() {
 }
 window.onload = function() {
   fetchData();
-  setInterval(fetchData, 5000);  // Refresh data every 5 seconds (5000 milliseconds)
+  setInterval(fetchData, 5000);  
 };
