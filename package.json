@@ -11,6 +11,5 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    // No dependencies required for static HTML/JS site
   }
 }
