@@ -1,17 +1,17 @@
 {
-    "name": "arduino-data-display",
-    "version": "1.0.0",
-    "description": "Display sensor data from Arduino-like device on a webpage",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js",
-        "build": "echo 'No build steps specified'",
-        "test": "echo 'No tests specified'"
-    },
-    "author": "Your Name",
-    "license": "MIT",
-    "dependencies": {},
-    "devDependencies": {
-        "webpack": "^5.42.0"
-    }
+  "name": "arduino-data-display",
+  "version": "1.0.0",
+  "description": "Display sensor data from Arduino-like device on a webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build steps specified'",
+    "test": "echo 'No tests specified'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.42.0"
+  }
 }
