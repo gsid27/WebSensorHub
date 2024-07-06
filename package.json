@@ -10,5 +10,8 @@
     },
     "author": "Your Name",
     "license": "MIT",
-    "dependencies": {}
+    "dependencies": {},
+    "devDependencies": {
+        "webpack": "^5.42.0"
+    }
 }
